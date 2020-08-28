@@ -1,8 +1,8 @@
 package main
 
 import (
-	w "./walkdir"
 	"fmt"
+	w "github.com/ypetya/git-fetch-recursive/walkdir"
 	"os"
 	"os/exec"
 	"sync"
